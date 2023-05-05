@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999465930949",
+    "project_id": "krishikadam-f3772",
+    "storage_bucket": "krishikadam-f3772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999465930949:android:1ef9ad3ec2daee580ae0ac",
+        "android_client_info": {
+          "package_name": "com.example.krishikadam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999465930949-ac88qo4o52j3esr2921podool9bfa5oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0IqBq9riWy4RSIII5nqMxduAk6mkNNTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999465930949-ac88qo4o52j3esr2921podool9bfa5oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
